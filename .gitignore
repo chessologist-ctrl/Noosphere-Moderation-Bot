@@ -1,0 +1,18 @@
+# ❌ Secrets
+.env
+
+# ⚙ Python cache
+_pycache_/
+*.pyc
+
+# 🧠 VSCode config (optional)
+.vscode/
+
+# 🔧 OS metadata
+.DS_Store
+Thumbs.db
+
+# 🪵 Logs or temp data (optional)
+*.log
+
+.env
